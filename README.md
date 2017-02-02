@@ -1,1 +1,1 @@
-Practicas en AngularJS 1.6
+To do list en Angular.js(practica)
